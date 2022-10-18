@@ -1,0 +1,3 @@
+clearml
+numpy
+boto3>=1.9
